@@ -1,0 +1,5 @@
+Comments are mainly used to make our code more readable. 
+They are completely hidden from the webpage and only show up in the code.
+Commenting on your code is a good practice as it helps us to express what the code is doing. 
+It can act as an anchor for you if you want to change your code in the future.
+In a collaborative environment, code comments are helpful for other developers as well.

@@ -1,0 +1,6 @@
+HTML tags can be considered hidden keywords or commands incorporated in HTML.
+Which can define how your browser will display the content and format of the web page. 
+Most tags of HTML have two sections:
+ An opening 
+ A closing portion 
+ Any text is written within that has its effect based on the working of the tag.
